@@ -7,4 +7,4 @@ Created my first webpage marking up some plain text as an HTML5 page.
 
 History of Type
 ================
-[Version 1](https://jessdonnan.github.io/john_baskerville/)
+[Version 1](https://jessdonnan.github.io/john_baskerville/history-one)
