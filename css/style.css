@@ -31,6 +31,7 @@ p, blockquote {
 h1 {
     font-size: 3.827em;
     margin-top: 2em;
+    margin-bottom: 0.3em;
 }
 
 h2 {
@@ -108,7 +109,6 @@ nav a:hover {
 /* nav a:link {
     color: #fdfdfd;
 }
-
 
 /*--- FOOTER ---*/
 footer {
