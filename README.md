@@ -11,3 +11,5 @@ Adding new Baskerville file and applied my first CSS styling.
 History of Type
 ================
 [Version 1](https://jessdonnan.github.io/john_baskerville/history-one.html)
+
+[Version 2](https://jessdonnan.github.io/john_baskerville/history-two.html)
