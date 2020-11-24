@@ -14,14 +14,14 @@ body {
     margin: auto;
     background: #fdfdfd;
     color: #333;
-    font-family: 'Lato', sans-serif;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Playfair Display', serif;
 }
 
 /*---- TYPOGRAPHY ----*/
 h1, h2 {
     font-weight: normal;
-    color: #8f0040;
+    color: #00678f;
     text-align: center;
     
 }
@@ -32,7 +32,7 @@ p, blockquote {
 }
 
 h1, h2, nav, blockquote, footer {
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Playfair Display', serif;
 }
 
 h1 {
@@ -47,7 +47,7 @@ h2 {
 
 blockquote {
     font-size: 1.3em;
-    color: #8f0040;
+    color: #00678f;
     hanging-punctuation: first;
     text-indent: -0.42em;
 }
@@ -57,7 +57,7 @@ blockquote cite {
     color: #333;
 }
 
-p, cite {font-family: 'Lato', sans-serif;}
+p, cite {font-family: 'Roboto', sans-serif;}
 
 header h2 {
     font-style: italic;
@@ -67,33 +67,33 @@ header h2 {
 
 header p {
     font-size: 1.3em;
-    font-family: 'Baskervville', serif;
+    font-family: 'Playfair Display', serif;
 }
 
 hr {
     margin-top: 5em;
     height: 1px;
-    background: #8f0040;
-    color: #8f0040;
+    background: #00678f;
+    color: #00678f;
     border: 0 none;
 }
 
 .leader {
     
     text-transform: uppercase;
-    color: #8f0040; 
+    color: #00678f; 
     font-variant-numeric: oldstyle-nums;
 }
 
 
 /*--- STYLING LINKS ---*/
 a {
-    color: #8f0040;
+    color: #00678f;
     text-decoration: none;
 }
 
 a:visited {
-    color: #8f0040;
+    color: #00678f;
 }
 a:hover {
     color: green;
@@ -107,7 +107,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background-color: #8f0040;
+    background-color: #00678f;
     padding: 1em 0;
     font-size: 0.75em;
 }
@@ -133,7 +133,7 @@ nav a:visited {
 
 nav a:hover {
     border-bottom: none;
-    color: #fc8ebf;
+    color: #7fbad1;
     transition: all 0.3s ease-in-out;
 }
 
