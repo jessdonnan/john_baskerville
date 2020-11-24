@@ -1,8 +1,8 @@
 John Baskerville
 ================
 [Version 1](https://jessdonnan.github.io/john_baskerville/baskerville-one.html)
-*02 November 2020*
-Created my first webpage marking up some plain text as an HTML5 page.
+<br>*02 November 2020*
+<br>Created my first webpage marking up some plain text as an HTML5 page.
 
 [Version 2](https://jessdonnan.github.io/john_baskerville/baskerville-two.html)
 <br>*09 November 2020*
