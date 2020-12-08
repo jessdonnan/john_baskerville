@@ -6,7 +6,7 @@ body{
 }
 
 
-h1,h2,h3,blockquote, .dropcap {color:darkmagenta;}
+h1,h2,h3,blockquote, .dropcap {color:rgb(25, 168, 179);}
 
 h1,h2,h3 {
     
@@ -20,9 +20,9 @@ h1 {font-size: 5.063em;}
 
 h2{
     font-style: italic;
-    font-size: 2..25em;
+    font-size: 2.25em;
     padding-bottom: 30px;
-    margin: -.5em 0 0.5em}
+    margin: -.5em 0 0 .5em}
 
 h3{font-size: 1.25em;
     text-transform: uppercase;}
@@ -39,7 +39,7 @@ blockquote{
     text-indent: -0.43em;
 }
 
-blockquote cite { color:darkgray; font-size: 0.667em;}
+blockquote cite { color:#999; font-size: 0.667em;}
 
 .intro {font-size: 1.25em;}
 
@@ -57,6 +57,7 @@ blockquote cite { color:darkgray; font-size: 0.667em;}
     padding-top: 50px;
     font-family: 'Open Sans', sans-serif;
 }
+
 .version1 .intro {padding-bottom: 1em;}
 .version1 blockquote {line-height: 1.4}
 .version1 h1 {font-family:'Open Sans', sans-serif;}
@@ -95,7 +96,9 @@ blockquote cite { color:darkgray; font-size: 0.667em;}
 hr{
     margin: 100px 0;
     height: 1px;
-    background-color:black;
-    color:blueviolet;
+    background-color:rgb(13, 121, 110);
+    color:rbg(13, 121, 110);
     border: 0 none;
 }
+
+.version2 blockquote {font-family: 'Open Sans', sans-serif;}
