@@ -56,15 +56,15 @@ blockquote cite { color:#999; font-size: 0.667em;}
 
 .version1 {
     padding-top: 50px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Merriweather', serif;
 }
 
 .version1 .intro {padding-bottom: 1em;}
 .version1 blockquote {line-height: 1.4}
-.version1 h1 {font-family:'Open Sans', sans-serif;}
-.version1 h2 {font-family:'Open Sans', sans-serif;}
-.version1 blockquote {font-family:'Open Sans', sans-serif;}
-.version1 p {font-family:'Open Sans', sans-serif;}
+.version1 h1 {font-family: 'Merriweather', serif;}
+.version1 h2 {font-family: 'Merriweather', serif;}
+.version1 blockquote {font-family: 'Roboto', sans-serif;}
+.version1 p {font-family: 'Roboto', sans-serif;}
 
 
 
