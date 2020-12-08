@@ -1,0 +1,101 @@
+body{
+    max-width: 700px;
+    margin: auto;
+    padding: 0 30px;
+    
+}
+
+
+h1,h2,h3,blockquote, .dropcap {color:darkmagenta;}
+
+h1,h2,h3 {
+    
+    margin: 0;
+    font-weight: normal;
+}
+
+p {line-height: 1.6em;}
+
+h1 {font-size: 5.063em;}
+
+h2{
+    font-style: italic;
+    font-size: 2..25em;
+    padding-bottom: 30px;
+    margin: -.5em 0 0.5em}
+
+h3{font-size: 1.25em;
+    text-transform: uppercase;}
+
+blockquote{
+    margin: 0;
+    font-weight: normal;
+    font-size: 1.5em;
+    font-style: italic;
+    padding: 1.5em 0 0 0;}
+
+blockquote{
+    hanging-punctuation: first;
+    text-indent: -0.43em;
+}
+
+blockquote cite { color:darkgray; font-size: 0.667em;}
+
+.intro {font-size: 1.25em;}
+
+.dropcap {
+          float: left;
+          font-size: 4.7em;
+          line-height: 0.5em;
+    margin-right: 0px;
+}
+
+
+------version1---------
+
+.version1 {
+    padding-top: 50px;
+    font-family: 'Open Sans', sans-serif;
+}
+.version1 .intro {padding-bottom: 1em;}
+.version1 blockquote {line-height: 1.4}
+.version1 h1 {font-family:'Open Sans', sans-serif;}
+.version1 h2 {font-family:'Open Sans', sans-serif;}
+.version1 blockquote {font-family:'Open Sans', sans-serif;}
+.version1 p {font-family:'Open Sans', sans-serif;}
+
+
+
+
+-----version2-----
+.version2 {font-family: 'Castoro', serif;}
+.version2 h1 {font-family:'Castoro', serif;}
+.version2 h2 {font-family:'Castoro', serif;}
+.version2 p {font-family:'Castoro', serif;}
+.version2 blockquote {font-family:'Castoro', serif;}
+
+.introcaps {
+    text-transform: uppercase;}
+.version2 cite{
+    font-style: normal;
+    text-transform: uppercase;}
+
+
+
+
+-----version3-----
+.version3 {font-family:'Playfair Display', serif;} 
+.version3 h1 {font-family:'Playfair Display', serif;}
+.version3 h2 {font-family:'Playfair Display', serif;}
+.version3 p {font-family:'Playfair Display', serif;}
+.version3 blockquote {font-family:'Playfair Display', serif;}
+
+
+
+hr{
+    margin: 100px 0;
+    height: 1px;
+    background-color:black;
+    color:blueviolet;
+    border: 0 none;
+}
