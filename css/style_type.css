@@ -137,9 +137,67 @@ nav a:hover {
     transition: all 0.3s ease-in-out;
 }
 
+/*---- TABLE STYLING ---*/
+
+table {
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;
+    width: 100%;
+} 
+
+caption {
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
+
+th {
+    color: #fafafa;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: rgb(4, 64, 143);
+}
+
+th, td {
+    padding: .6em }
+
+table, td   {
+    background: rgb(165, 201, 224);
+    border: 1px solid #fafafa
+}
+
+.baskerville {
+    background: #333;
+    color: #fafafa;
+    padding: 2em 0;
+}
+
+.baskerville h2 {
+    color: coral
+}
+
+/*----- IMAGES -----*/
+
+img {
+    display: block;
+    margin: 3em auto;
+    padding: 0;
+    max-width: 100%;
+}
+
 /*--- FOOTER ---*/
 footer {
     text-align: center;
     font-size: 0.707em;
     margin: 5em 0 8em 0
 }
+
+/*--- MEDIA QUERIES -*/
+@media (max-width: 50em){
+  
+    body {background: #8F0040}
+     
+       }
