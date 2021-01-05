@@ -23,3 +23,5 @@ History of Type
 [Version 2](https://jessdonnan.github.io/john_baskerville/history-two.html)
 
 [Version 3](https://jessdonnan.github.io/john_baskerville/history-three.html)
+
+[Version 4](https://jessdonnan.github.io/john_baskerville/history-four.html)
